@@ -1,5 +1,7 @@
 # CantoLocker
 
+Smart contract (in Canto testnet): https://testnet.tuber.build/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168
+
 ## 0. Description:
 CantoLocker is an innovative application built on the [Canto chain](https://canto.io/), designed to empower users with a secure and user-friendly platform for financial legacy planning. It leverages blockchain technology, smart contracts, and transparency to simplify the management of assets and the seamless transfer of financial resources to beneficiaries in the event of unforeseen circumstances.
 
